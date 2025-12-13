@@ -118,5 +118,13 @@
     "category": "ai",
     "generated_at": "2025-12-13T15:33:38.894346",
     "priority": 81
+  },
+  {
+    "id": 16,
+    "name": "Social App #16",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2025-12-13T16:44:38.962516",
+    "priority": 62
   }
 ]
