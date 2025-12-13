@@ -158,5 +158,13 @@
     "category": "sustainability",
     "generated_at": "2025-12-13T19:37:16.855928",
     "priority": 92
+  },
+  {
+    "id": 21,
+    "name": "Ai App #21",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2025-12-13T20:36:39.859815",
+    "priority": 27
   }
 ]
