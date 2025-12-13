@@ -94,5 +94,13 @@
     "category": "sustainability",
     "generated_at": "2025-12-13T13:18:51.826782",
     "priority": 100
+  },
+  {
+    "id": 13,
+    "name": "Ai App #13",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2025-12-13T13:45:40.277386",
+    "priority": 30
   }
 ]
