@@ -38,5 +38,13 @@
     "category": "productivity",
     "generated_at": "2025-12-13T06:54:16.679873",
     "priority": 11
+  },
+  {
+    "id": 6,
+    "name": "Education App #6",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2025-12-13T07:33:16.846682",
+    "priority": 8
   }
 ]
