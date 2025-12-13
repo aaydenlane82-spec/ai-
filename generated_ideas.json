@@ -78,5 +78,13 @@
     "category": "sustainability",
     "generated_at": "2025-12-13T11:27:23.559741",
     "priority": 22
+  },
+  {
+    "id": 11,
+    "name": "Social App #11",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2025-12-13T11:40:47.014830",
+    "priority": 9
   }
 ]
