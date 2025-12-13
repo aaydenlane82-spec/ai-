@@ -86,5 +86,13 @@
     "category": "social",
     "generated_at": "2025-12-13T11:40:47.014830",
     "priority": 9
+  },
+  {
+    "id": 12,
+    "name": "Sustainability App #12",
+    "description": "Energy optimizer",
+    "category": "sustainability",
+    "generated_at": "2025-12-13T13:18:51.826782",
+    "priority": 100
   }
 ]
