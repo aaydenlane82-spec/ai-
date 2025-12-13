@@ -6,5 +6,13 @@
     "category": "social",
     "generated_at": "2025-12-13T03:00:55.427071",
     "priority": 35
+  },
+  {
+    "id": 2,
+    "name": "Finance App #2",
+    "description": "Bill splitter",
+    "category": "finance",
+    "generated_at": "2025-12-13T04:02:13.509786",
+    "priority": 83
   }
 ]
