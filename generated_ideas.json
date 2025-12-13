@@ -190,5 +190,13 @@
     "category": "productivity",
     "generated_at": "2025-12-13T22:38:06.195629",
     "priority": 50
+  },
+  {
+    "id": 25,
+    "name": "Productivity App #25",
+    "description": "Focus timer",
+    "category": "productivity",
+    "generated_at": "2025-12-13T23:31:23.037934",
+    "priority": 39
   }
 ]
