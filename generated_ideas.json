@@ -126,5 +126,13 @@
     "category": "social",
     "generated_at": "2025-12-13T16:44:38.962516",
     "priority": 62
+  },
+  {
+    "id": 17,
+    "name": "Sustainability App #17",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2025-12-13T17:32:39.204142",
+    "priority": 44
   }
 ]
