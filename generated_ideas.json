@@ -198,5 +198,13 @@
     "category": "productivity",
     "generated_at": "2025-12-13T23:31:23.037934",
     "priority": 39
+  },
+  {
+    "id": 26,
+    "name": "Health App #26",
+    "description": "Medication reminder",
+    "category": "health",
+    "generated_at": "2025-12-14T03:53:20.192483",
+    "priority": 67
   }
 ]
