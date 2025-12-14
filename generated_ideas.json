@@ -238,5 +238,13 @@
     "category": "health",
     "generated_at": "2025-12-14T07:31:53.183442",
     "priority": 33
+  },
+  {
+    "id": 31,
+    "name": "Education App #31",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2025-12-14T08:47:00.150357",
+    "priority": 59
   }
 ]
