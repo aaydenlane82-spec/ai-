@@ -318,5 +318,13 @@
     "category": "productivity",
     "generated_at": "2025-12-14T16:44:44.065459",
     "priority": 91
+  },
+  {
+    "id": 41,
+    "name": "Health App #41",
+    "description": "Mental wellness companion",
+    "category": "health",
+    "generated_at": "2025-12-14T17:33:24.580662",
+    "priority": 59
   }
 ]
