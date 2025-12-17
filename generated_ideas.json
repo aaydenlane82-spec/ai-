@@ -806,5 +806,13 @@
     "category": "education",
     "generated_at": "2025-12-17T18:58:10.130532",
     "priority": 78
+  },
+  {
+    "id": 102,
+    "name": "Productivity App #102",
+    "description": "Focus timer",
+    "category": "productivity",
+    "generated_at": "2025-12-17T19:32:16.716893",
+    "priority": 85
   }
 ]
