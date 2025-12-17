@@ -838,5 +838,13 @@
     "category": "productivity",
     "generated_at": "2025-12-17T22:41:15.875674",
     "priority": 60
+  },
+  {
+    "id": 106,
+    "name": "Ai App #106",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2025-12-17T23:34:12.469364",
+    "priority": 82
   }
 ]
