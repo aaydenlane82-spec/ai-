@@ -918,5 +918,13 @@
     "category": "finance",
     "generated_at": "2025-12-18T11:32:28.163978",
     "priority": 63
+  },
+  {
+    "id": 116,
+    "name": "Productivity App #116",
+    "description": "Smart task manager",
+    "category": "productivity",
+    "generated_at": "2025-12-18T13:49:18.420215",
+    "priority": 86
   }
 ]
