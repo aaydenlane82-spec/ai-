@@ -1590,5 +1590,13 @@
     "category": "education",
     "generated_at": "2025-12-22T06:59:47.650594",
     "priority": 92
+  },
+  {
+    "id": 200,
+    "name": "Productivity App #200",
+    "description": "Habit tracker",
+    "category": "productivity",
+    "generated_at": "2025-12-22T07:42:40.604990",
+    "priority": 15
   }
 ]
