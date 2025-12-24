@@ -2014,5 +2014,13 @@
     "category": "finance",
     "generated_at": "2025-12-24T18:54:34.588174",
     "priority": 99
+  },
+  {
+    "id": 253,
+    "name": "Ai App #253",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2025-12-24T19:27:47.440818",
+    "priority": 60
   }
 ]
