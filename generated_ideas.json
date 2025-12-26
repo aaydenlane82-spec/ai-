@@ -2310,5 +2310,13 @@
     "category": "education",
     "generated_at": "2025-12-26T13:49:32.203947",
     "priority": 2
+  },
+  {
+    "id": 290,
+    "name": "Finance App #290",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2025-12-26T14:46:58.541811",
+    "priority": 66
   }
 ]
