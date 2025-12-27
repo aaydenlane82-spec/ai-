@@ -2518,5 +2518,13 @@
     "category": "social",
     "generated_at": "2025-12-27T17:38:32.117680",
     "priority": 49
+  },
+  {
+    "id": 316,
+    "name": "Finance App #316",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2025-12-27T18:56:44.448350",
+    "priority": 45
   }
 ]
