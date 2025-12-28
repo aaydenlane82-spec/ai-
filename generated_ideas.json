@@ -2606,5 +2606,13 @@
     "category": "health",
     "generated_at": "2025-12-28T07:33:54.137768",
     "priority": 33
+  },
+  {
+    "id": 327,
+    "name": "Sustainability App #327",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2025-12-28T08:49:41.503045",
+    "priority": 37
   }
 ]
