@@ -2782,5 +2782,13 @@
     "category": "education",
     "generated_at": "2025-12-29T08:58:46.709598",
     "priority": 9
+  },
+  {
+    "id": 349,
+    "name": "Health App #349",
+    "description": "Mental wellness companion",
+    "category": "health",
+    "generated_at": "2025-12-29T09:53:47.093268",
+    "priority": 97
   }
 ]
