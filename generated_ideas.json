@@ -2790,5 +2790,13 @@
     "category": "health",
     "generated_at": "2025-12-29T09:53:47.093268",
     "priority": 97
+  },
+  {
+    "id": 350,
+    "name": "Finance App #350",
+    "description": "Savings goal tracker",
+    "category": "finance",
+    "generated_at": "2025-12-29T10:49:22.545624",
+    "priority": 26
   }
 ]
