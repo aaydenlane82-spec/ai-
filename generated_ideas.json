@@ -2822,5 +2822,13 @@
     "category": "health",
     "generated_at": "2025-12-29T14:46:34.916626",
     "priority": 46
+  },
+  {
+    "id": 354,
+    "name": "Education App #354",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2025-12-29T15:41:57.091195",
+    "priority": 96
   }
 ]
