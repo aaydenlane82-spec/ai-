@@ -2878,5 +2878,13 @@
     "category": "social",
     "generated_at": "2025-12-29T20:42:47.577808",
     "priority": 58
+  },
+  {
+    "id": 361,
+    "name": "Education App #361",
+    "description": "Flashcard maker",
+    "category": "education",
+    "generated_at": "2025-12-29T21:32:44.101298",
+    "priority": 96
   }
 ]
