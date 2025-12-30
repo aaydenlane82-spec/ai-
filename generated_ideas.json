@@ -3014,5 +3014,13 @@
     "category": "education",
     "generated_at": "2025-12-30T17:41:06.850165",
     "priority": 56
+  },
+  {
+    "id": 378,
+    "name": "Ai App #378",
+    "description": "Creative writing partner",
+    "category": "ai",
+    "generated_at": "2025-12-30T18:56:19.656748",
+    "priority": 37
   }
 ]
