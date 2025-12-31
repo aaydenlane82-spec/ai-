@@ -3150,5 +3150,13 @@
     "category": "ai",
     "generated_at": "2025-12-31T13:44:45.831783",
     "priority": 47
+  },
+  {
+    "id": 395,
+    "name": "Ai App #395",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2025-12-31T14:41:44.353418",
+    "priority": 8
   }
 ]
