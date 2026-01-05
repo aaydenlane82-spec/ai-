@@ -3918,5 +3918,13 @@
     "category": "health",
     "generated_at": "2026-01-04T23:34:15.559037",
     "priority": 100
+  },
+  {
+    "id": 491,
+    "name": "Ai App #491",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2026-01-05T04:35:06.856495",
+    "priority": 83
   }
 ]
