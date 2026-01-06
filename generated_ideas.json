@@ -4350,5 +4350,13 @@
     "category": "social",
     "generated_at": "2026-01-06T18:51:04.095761",
     "priority": 60
+  },
+  {
+    "id": 545,
+    "name": "Productivity App #545",
+    "description": "Habit tracker",
+    "category": "productivity",
+    "generated_at": "2026-01-06T19:09:46.155306",
+    "priority": 86
   }
 ]
