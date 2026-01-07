@@ -4654,5 +4654,13 @@
     "category": "finance",
     "generated_at": "2026-01-07T17:18:55.064586",
     "priority": 90
+  },
+  {
+    "id": 583,
+    "name": "Health App #583",
+    "description": "Mental wellness companion",
+    "category": "health",
+    "generated_at": "2026-01-07T17:47:50.012790",
+    "priority": 48
   }
 ]
