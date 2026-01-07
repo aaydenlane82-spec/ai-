@@ -4574,5 +4574,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-07T11:38:57.504000",
     "priority": 60
+  },
+  {
+    "id": 573,
+    "name": "Finance App #573",
+    "description": "Budget tracker with AI",
+    "category": "finance",
+    "generated_at": "2026-01-07T12:26:25.074978",
+    "priority": 75
   }
 ]
