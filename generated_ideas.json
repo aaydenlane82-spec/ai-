@@ -4950,5 +4950,13 @@
     "category": "ai",
     "generated_at": "2026-01-08T15:16:27.088437",
     "priority": 89
+  },
+  {
+    "id": 620,
+    "name": "Education App #620",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-01-08T15:46:50.108149",
+    "priority": 63
   }
 ]
