@@ -5950,5 +5950,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-11T16:14:10.998885",
     "priority": 27
+  },
+  {
+    "id": 745,
+    "name": "Productivity App #745",
+    "description": "Meeting scheduler",
+    "category": "productivity",
+    "generated_at": "2026-01-11T16:44:57.934570",
+    "priority": 2
   }
 ]
