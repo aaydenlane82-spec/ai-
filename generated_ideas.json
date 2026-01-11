@@ -5894,5 +5894,13 @@
     "category": "finance",
     "generated_at": "2026-01-11T12:22:55.846244",
     "priority": 51
+  },
+  {
+    "id": 738,
+    "name": "Sustainability App #738",
+    "description": "Energy optimizer",
+    "category": "sustainability",
+    "generated_at": "2026-01-11T13:05:31.689210",
+    "priority": 90
   }
 ]
