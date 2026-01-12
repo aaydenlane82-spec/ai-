@@ -6366,5 +6366,13 @@
     "category": "education",
     "generated_at": "2026-01-12T22:12:11.260018",
     "priority": 64
+  },
+  {
+    "id": 797,
+    "name": "Sustainability App #797",
+    "description": "Carbon footprint tracker",
+    "category": "sustainability",
+    "generated_at": "2026-01-12T22:40:53.572426",
+    "priority": 6
   }
 ]
