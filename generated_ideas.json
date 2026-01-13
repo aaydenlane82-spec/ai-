@@ -6646,5 +6646,13 @@
     "category": "ai",
     "generated_at": "2026-01-13T19:13:48.430652",
     "priority": 96
+  },
+  {
+    "id": 832,
+    "name": "Finance App #832",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2026-01-13T19:36:50.880918",
+    "priority": 83
   }
 ]
