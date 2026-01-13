@@ -6654,5 +6654,13 @@
     "category": "finance",
     "generated_at": "2026-01-13T19:36:50.880918",
     "priority": 83
+  },
+  {
+    "id": 833,
+    "name": "Education App #833",
+    "description": "Flashcard maker",
+    "category": "education",
+    "generated_at": "2026-01-13T20:14:37.355101",
+    "priority": 7
   }
 ]
