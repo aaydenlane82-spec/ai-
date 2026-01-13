@@ -6534,5 +6534,13 @@
     "category": "social",
     "generated_at": "2026-01-13T11:39:27.958005",
     "priority": 62
+  },
+  {
+    "id": 818,
+    "name": "Education App #818",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-01-13T12:26:44.733738",
+    "priority": 1
   }
 ]
