@@ -6870,5 +6870,13 @@
     "category": "health",
     "generated_at": "2026-01-14T13:13:35.167893",
     "priority": 6
+  },
+  {
+    "id": 860,
+    "name": "Productivity App #860",
+    "description": "Habit tracker",
+    "category": "productivity",
+    "generated_at": "2026-01-14T13:54:56.570638",
+    "priority": 5
   }
 ]
