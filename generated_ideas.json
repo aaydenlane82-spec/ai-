@@ -7566,5 +7566,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-16T16:17:18.790218",
     "priority": 17
+  },
+  {
+    "id": 947,
+    "name": "Finance App #947",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2026-01-16T16:51:39.719078",
+    "priority": 41
   }
 ]
