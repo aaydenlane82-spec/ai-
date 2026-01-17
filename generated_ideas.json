@@ -7750,5 +7750,13 @@
     "category": "productivity",
     "generated_at": "2026-01-17T06:18:23.044366",
     "priority": 11
+  },
+  {
+    "id": 970,
+    "name": "Sustainability App #970",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-01-17T06:50:19.986484",
+    "priority": 92
   }
 ]
