@@ -8678,5 +8678,13 @@
     "category": "social",
     "generated_at": "2026-01-20T03:01:49.435456",
     "priority": 65
+  },
+  {
+    "id": 1086,
+    "name": "Health App #1086",
+    "description": "Medication reminder",
+    "category": "health",
+    "generated_at": "2026-01-20T04:28:45.335350",
+    "priority": 63
   }
 ]
