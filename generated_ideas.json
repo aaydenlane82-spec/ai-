@@ -8950,5 +8950,13 @@
     "category": "finance",
     "generated_at": "2026-01-20T23:41:31.591323",
     "priority": 36
+  },
+  {
+    "id": 1120,
+    "name": "Education App #1120",
+    "description": "Adaptive learning app",
+    "category": "education",
+    "generated_at": "2026-01-21T01:01:51.037137",
+    "priority": 89
   }
 ]
