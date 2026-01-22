@@ -9478,5 +9478,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-22T19:20:57.877430",
     "priority": 87
+  },
+  {
+    "id": 1186,
+    "name": "Education App #1186",
+    "description": "Adaptive learning app",
+    "category": "education",
+    "generated_at": "2026-01-22T19:42:26.209685",
+    "priority": 82
   }
 ]
