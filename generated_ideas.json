@@ -9806,5 +9806,13 @@
     "category": "productivity",
     "generated_at": "2026-01-23T19:19:00.723389",
     "priority": 22
+  },
+  {
+    "id": 1227,
+    "name": "Ai App #1227",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-01-23T19:42:39.814472",
+    "priority": 23
   }
 ]
