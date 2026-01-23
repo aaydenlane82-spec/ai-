@@ -9862,5 +9862,13 @@
     "category": "ai",
     "generated_at": "2026-01-23T22:41:32.917325",
     "priority": 21
+  },
+  {
+    "id": 1234,
+    "name": "Health App #1234",
+    "description": "Fitness planner",
+    "category": "health",
+    "generated_at": "2026-01-23T23:13:12.400604",
+    "priority": 66
   }
 ]
