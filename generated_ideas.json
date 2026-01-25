@@ -10374,5 +10374,13 @@
     "category": "ai",
     "generated_at": "2026-01-25T13:47:51.205951",
     "priority": 1
+  },
+  {
+    "id": 1298,
+    "name": "Sustainability App #1298",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-01-25T14:11:32.971021",
+    "priority": 7
   }
 ]
