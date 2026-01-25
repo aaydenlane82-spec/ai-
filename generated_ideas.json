@@ -10286,5 +10286,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-25T07:39:24.992985",
     "priority": 62
+  },
+  {
+    "id": 1287,
+    "name": "Ai App #1287",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2026-01-25T08:16:28.777360",
+    "priority": 15
   }
 ]
