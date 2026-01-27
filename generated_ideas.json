@@ -11110,5 +11110,13 @@
     "category": "productivity",
     "generated_at": "2026-01-27T21:10:38.777015",
     "priority": 43
+  },
+  {
+    "id": 1390,
+    "name": "Ai App #1390",
+    "description": "Creative writing partner",
+    "category": "ai",
+    "generated_at": "2026-01-27T21:39:19.273057",
+    "priority": 83
   }
 ]
