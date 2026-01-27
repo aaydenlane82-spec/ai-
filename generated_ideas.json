@@ -10982,5 +10982,13 @@
     "category": "productivity",
     "generated_at": "2026-01-27T11:42:21.619780",
     "priority": 75
+  },
+  {
+    "id": 1374,
+    "name": "Sustainability App #1374",
+    "description": "Energy optimizer",
+    "category": "sustainability",
+    "generated_at": "2026-01-27T12:27:45.760504",
+    "priority": 26
   }
 ]
