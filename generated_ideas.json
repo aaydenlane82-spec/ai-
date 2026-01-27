@@ -11030,5 +11030,13 @@
     "category": "education",
     "generated_at": "2026-01-27T15:49:00.671535",
     "priority": 10
+  },
+  {
+    "id": 1380,
+    "name": "Ai App #1380",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2026-01-27T16:19:05.024938",
+    "priority": 92
   }
 ]
