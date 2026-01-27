@@ -11022,5 +11022,13 @@
     "category": "productivity",
     "generated_at": "2026-01-27T15:22:38.906084",
     "priority": 74
+  },
+  {
+    "id": 1379,
+    "name": "Education App #1379",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-01-27T15:49:00.671535",
+    "priority": 10
   }
 ]
