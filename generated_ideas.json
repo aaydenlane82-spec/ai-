@@ -11150,5 +11150,13 @@
     "category": "sustainability",
     "generated_at": "2026-01-27T23:41:10.386098",
     "priority": 36
+  },
+  {
+    "id": 1395,
+    "name": "Ai App #1395",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-01-28T01:01:02.658269",
+    "priority": 89
   }
 ]
