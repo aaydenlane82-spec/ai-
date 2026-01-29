@@ -11670,5 +11670,13 @@
     "category": "education",
     "generated_at": "2026-01-29T22:51:35.237246",
     "priority": 40
+  },
+  {
+    "id": 1460,
+    "name": "Social App #1460",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2026-01-29T23:17:22.654283",
+    "priority": 52
   }
 ]
