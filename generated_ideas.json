@@ -13222,5 +13222,13 @@
     "category": "education",
     "generated_at": "2026-02-05T18:36:48.499849",
     "priority": 1
+  },
+  {
+    "id": 1654,
+    "name": "Health App #1654",
+    "description": "Medication reminder",
+    "category": "health",
+    "generated_at": "2026-02-05T19:31:44.569768",
+    "priority": 67
   }
 ]
