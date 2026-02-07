@@ -13726,5 +13726,13 @@
     "category": "health",
     "generated_at": "2026-02-07T19:22:28.625929",
     "priority": 37
+  },
+  {
+    "id": 1717,
+    "name": "Education App #1717",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-02-07T19:42:07.106614",
+    "priority": 24
   }
 ]
