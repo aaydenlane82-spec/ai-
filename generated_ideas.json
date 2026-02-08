@@ -13966,5 +13966,13 @@
     "category": "ai",
     "generated_at": "2026-02-08T16:18:40.888044",
     "priority": 57
+  },
+  {
+    "id": 1747,
+    "name": "Sustainability App #1747",
+    "description": "Carbon footprint tracker",
+    "category": "sustainability",
+    "generated_at": "2026-02-08T16:54:04.944662",
+    "priority": 83
   }
 ]
