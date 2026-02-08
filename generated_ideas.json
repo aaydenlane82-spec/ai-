@@ -13918,5 +13918,13 @@
     "category": "social",
     "generated_at": "2026-02-08T13:25:15.762664",
     "priority": 31
+  },
+  {
+    "id": 1741,
+    "name": "Productivity App #1741",
+    "description": "Meeting scheduler",
+    "category": "productivity",
+    "generated_at": "2026-02-08T13:59:00.500741",
+    "priority": 47
   }
 ]
