@@ -14382,5 +14382,13 @@
     "category": "social",
     "generated_at": "2026-02-10T20:35:16.356245",
     "priority": 5
+  },
+  {
+    "id": 1799,
+    "name": "Ai App #1799",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-02-10T21:34:01.897408",
+    "priority": 96
   }
 ]
