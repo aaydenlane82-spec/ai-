@@ -14318,5 +14318,13 @@
     "category": "health",
     "generated_at": "2026-02-10T11:42:21.687824",
     "priority": 96
+  },
+  {
+    "id": 1791,
+    "name": "Ai App #1791",
+    "description": "Creative writing partner",
+    "category": "ai",
+    "generated_at": "2026-02-10T12:49:36.534600",
+    "priority": 23
   }
 ]
