@@ -14566,5 +14566,13 @@
     "category": "productivity",
     "generated_at": "2026-02-11T22:22:46.555141",
     "priority": 68
+  },
+  {
+    "id": 1822,
+    "name": "Education App #1822",
+    "description": "Adaptive learning app",
+    "category": "education",
+    "generated_at": "2026-02-11T22:56:49.770235",
+    "priority": 41
   }
 ]
