@@ -15358,5 +15358,13 @@
     "category": "social",
     "generated_at": "2026-02-15T11:15:10.385009",
     "priority": 5
+  },
+  {
+    "id": 1921,
+    "name": "Sustainability App #1921",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-02-15T11:42:39.468311",
+    "priority": 28
   }
 ]
