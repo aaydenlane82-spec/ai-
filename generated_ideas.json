@@ -15350,5 +15350,13 @@
     "category": "finance",
     "generated_at": "2026-02-15T10:50:51.637197",
     "priority": 84
+  },
+  {
+    "id": 1920,
+    "name": "Social App #1920",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2026-02-15T11:15:10.385009",
+    "priority": 5
   }
 ]
