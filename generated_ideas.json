@@ -15606,5 +15606,13 @@
     "category": "finance",
     "generated_at": "2026-02-16T10:39:39.840194",
     "priority": 96
+  },
+  {
+    "id": 1952,
+    "name": "Productivity App #1952",
+    "description": "Meeting scheduler",
+    "category": "productivity",
+    "generated_at": "2026-02-16T11:33:31.552161",
+    "priority": 9
   }
 ]
