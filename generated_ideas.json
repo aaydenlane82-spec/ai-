@@ -17030,5 +17030,13 @@
     "category": "productivity",
     "generated_at": "2026-02-22T17:17:21.659249",
     "priority": 52
+  },
+  {
+    "id": 2130,
+    "name": "Education App #2130",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-02-22T17:48:30.295404",
+    "priority": 21
   }
 ]
