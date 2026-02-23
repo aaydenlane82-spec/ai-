@@ -17238,5 +17238,13 @@
     "category": "ai",
     "generated_at": "2026-02-23T16:09:12.154167",
     "priority": 32
+  },
+  {
+    "id": 2156,
+    "name": "Finance App #2156",
+    "description": "Bill splitter",
+    "category": "finance",
+    "generated_at": "2026-02-23T17:34:24.490266",
+    "priority": 2
   }
 ]
