@@ -17990,5 +17990,13 @@
     "category": "education",
     "generated_at": "2026-02-27T18:40:32.042313",
     "priority": 53
+  },
+  {
+    "id": 2250,
+    "name": "Health App #2250",
+    "description": "AI symptom tracker",
+    "category": "health",
+    "generated_at": "2026-02-27T19:26:36.374733",
+    "priority": 91
   }
 ]
