@@ -17958,5 +17958,13 @@
     "category": "health",
     "generated_at": "2026-02-27T15:30:12.230531",
     "priority": 40
+  },
+  {
+    "id": 2246,
+    "name": "Finance App #2246",
+    "description": "Bill splitter",
+    "category": "finance",
+    "generated_at": "2026-02-27T16:29:12.280407",
+    "priority": 57
   }
 ]
