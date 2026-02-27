@@ -17894,5 +17894,13 @@
     "category": "sustainability",
     "generated_at": "2026-02-27T08:00:47.928292",
     "priority": 100
+  },
+  {
+    "id": 2238,
+    "name": "Finance App #2238",
+    "description": "Bill splitter",
+    "category": "finance",
+    "generated_at": "2026-02-27T09:03:28.101212",
+    "priority": 67
   }
 ]
