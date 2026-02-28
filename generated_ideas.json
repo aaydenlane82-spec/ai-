@@ -18182,5 +18182,13 @@
     "category": "education",
     "generated_at": "2026-02-28T10:45:02.809215",
     "priority": 45
+  },
+  {
+    "id": 2274,
+    "name": "Education App #2274",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-02-28T11:11:21.095903",
+    "priority": 13
   }
 ]
