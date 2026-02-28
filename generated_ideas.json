@@ -18294,5 +18294,13 @@
     "category": "ai",
     "generated_at": "2026-02-28T18:19:10.592506",
     "priority": 53
+  },
+  {
+    "id": 2288,
+    "name": "Health App #2288",
+    "description": "Medication reminder",
+    "category": "health",
+    "generated_at": "2026-02-28T18:52:55.539331",
+    "priority": 36
   }
 ]
