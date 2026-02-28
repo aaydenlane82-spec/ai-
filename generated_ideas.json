@@ -18318,5 +18318,13 @@
     "category": "education",
     "generated_at": "2026-02-28T19:39:21.648565",
     "priority": 79
+  },
+  {
+    "id": 2291,
+    "name": "Education App #2291",
+    "description": "Adaptive learning app",
+    "category": "education",
+    "generated_at": "2026-02-28T20:14:57.434565",
+    "priority": 33
   }
 ]
