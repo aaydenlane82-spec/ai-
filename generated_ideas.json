@@ -18494,5 +18494,13 @@
     "category": "ai",
     "generated_at": "2026-03-01T11:39:58.197861",
     "priority": 62
+  },
+  {
+    "id": 2313,
+    "name": "Ai App #2313",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2026-03-01T12:27:14.482759",
+    "priority": 9
   }
 ]
