@@ -18454,5 +18454,13 @@
     "category": "finance",
     "generated_at": "2026-03-01T09:20:29.742579",
     "priority": 74
+  },
+  {
+    "id": 2308,
+    "name": "Ai App #2308",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-03-01T09:49:14.576707",
+    "priority": 72
   }
 ]
