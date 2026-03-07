@@ -19950,5 +19950,13 @@
     "category": "finance",
     "generated_at": "2026-03-07T17:43:10.712594",
     "priority": 54
+  },
+  {
+    "id": 2495,
+    "name": "Ai App #2495",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2026-03-07T18:20:14.820990",
+    "priority": 39
   }
 ]
