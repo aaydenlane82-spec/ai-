@@ -20014,5 +20014,13 @@
     "category": "sustainability",
     "generated_at": "2026-03-07T21:40:24.772265",
     "priority": 96
+  },
+  {
+    "id": 2503,
+    "name": "Health App #2503",
+    "description": "Mental wellness companion",
+    "category": "health",
+    "generated_at": "2026-03-07T22:13:37.166008",
+    "priority": 29
   }
 ]
