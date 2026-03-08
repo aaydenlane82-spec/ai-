@@ -20270,5 +20270,13 @@
     "category": "health",
     "generated_at": "2026-03-08T19:17:21.548075",
     "priority": 39
+  },
+  {
+    "id": 2535,
+    "name": "Ai App #2535",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2026-03-08T19:41:38.538910",
+    "priority": 25
   }
 ]
