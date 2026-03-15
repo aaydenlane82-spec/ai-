@@ -21790,5 +21790,13 @@
     "category": "health",
     "generated_at": "2026-03-15T11:17:43.264853",
     "priority": 6
+  },
+  {
+    "id": 2725,
+    "name": "Finance App #2725",
+    "description": "Savings goal tracker",
+    "category": "finance",
+    "generated_at": "2026-03-15T11:45:20.149726",
+    "priority": 98
   }
 ]
