@@ -21862,5 +21862,13 @@
     "category": "ai",
     "generated_at": "2026-03-15T16:53:36.157645",
     "priority": 47
+  },
+  {
+    "id": 2734,
+    "name": "Productivity App #2734",
+    "description": "Smart task manager",
+    "category": "productivity",
+    "generated_at": "2026-03-15T17:19:46.972666",
+    "priority": 5
   }
 ]
