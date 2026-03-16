@@ -22110,5 +22110,13 @@
     "category": "health",
     "generated_at": "2026-03-16T21:58:43.821958",
     "priority": 34
+  },
+  {
+    "id": 2765,
+    "name": "Productivity App #2765",
+    "description": "Focus timer",
+    "category": "productivity",
+    "generated_at": "2026-03-16T22:33:50.977695",
+    "priority": 91
   }
 ]
