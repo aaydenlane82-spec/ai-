@@ -22550,5 +22550,13 @@
     "category": "social",
     "generated_at": "2026-03-19T09:33:29.114826",
     "priority": 26
+  },
+  {
+    "id": 2820,
+    "name": "Education App #2820",
+    "description": "Flashcard maker",
+    "category": "education",
+    "generated_at": "2026-03-19T10:30:24.888454",
+    "priority": 87
   }
 ]
