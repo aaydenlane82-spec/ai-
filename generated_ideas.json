@@ -22758,5 +22758,13 @@
     "category": "productivity",
     "generated_at": "2026-03-20T09:31:13.419967",
     "priority": 95
+  },
+  {
+    "id": 2846,
+    "name": "Sustainability App #2846",
+    "description": "Carbon footprint tracker",
+    "category": "sustainability",
+    "generated_at": "2026-03-20T10:28:31.996640",
+    "priority": 51
   }
 ]
