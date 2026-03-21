@@ -23150,5 +23150,13 @@
     "category": "social",
     "generated_at": "2026-03-21T19:21:42.024381",
     "priority": 8
+  },
+  {
+    "id": 2895,
+    "name": "Health App #2895",
+    "description": "Fitness planner",
+    "category": "health",
+    "generated_at": "2026-03-21T19:43:01.155228",
+    "priority": 91
   }
 ]
