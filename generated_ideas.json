@@ -23126,5 +23126,13 @@
     "category": "health",
     "generated_at": "2026-03-21T17:47:24.382365",
     "priority": 78
+  },
+  {
+    "id": 2892,
+    "name": "Productivity App #2892",
+    "description": "Meeting scheduler",
+    "category": "productivity",
+    "generated_at": "2026-03-21T18:22:37.757789",
+    "priority": 21
   }
 ]
