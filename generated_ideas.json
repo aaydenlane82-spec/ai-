@@ -22974,5 +22974,13 @@
     "category": "finance",
     "generated_at": "2026-03-21T07:50:31.308796",
     "priority": 92
+  },
+  {
+    "id": 2873,
+    "name": "Ai App #2873",
+    "description": "Creative writing partner",
+    "category": "ai",
+    "generated_at": "2026-03-21T08:20:37.271034",
+    "priority": 30
   }
 ]
