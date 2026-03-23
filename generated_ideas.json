@@ -23630,5 +23630,13 @@
     "category": "social",
     "generated_at": "2026-03-23T18:39:03.882305",
     "priority": 98
+  },
+  {
+    "id": 2955,
+    "name": "Social App #2955",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2026-03-23T19:40:44.627486",
+    "priority": 15
   }
 ]
