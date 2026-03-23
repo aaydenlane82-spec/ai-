@@ -23606,5 +23606,13 @@
     "category": "finance",
     "generated_at": "2026-03-23T15:32:10.582242",
     "priority": 44
+  },
+  {
+    "id": 2952,
+    "name": "Productivity App #2952",
+    "description": "Focus timer",
+    "category": "productivity",
+    "generated_at": "2026-03-23T16:45:26.274103",
+    "priority": 13
   }
 ]
