@@ -23582,5 +23582,13 @@
     "category": "social",
     "generated_at": "2026-03-23T11:37:04.499615",
     "priority": 98
+  },
+  {
+    "id": 2949,
+    "name": "Finance App #2949",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2026-03-23T12:42:09.833279",
+    "priority": 22
   }
 ]
