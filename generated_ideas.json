@@ -23814,5 +23814,13 @@
     "category": "ai",
     "generated_at": "2026-03-24T18:49:02.905719",
     "priority": 2
+  },
+  {
+    "id": 2978,
+    "name": "Social App #2978",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2026-03-24T19:47:19.387102",
+    "priority": 8
   }
 ]
