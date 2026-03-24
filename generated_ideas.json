@@ -23782,5 +23782,13 @@
     "category": "health",
     "generated_at": "2026-03-24T14:13:38.832964",
     "priority": 4
+  },
+  {
+    "id": 2974,
+    "name": "Education App #2974",
+    "description": "Flashcard maker",
+    "category": "education",
+    "generated_at": "2026-03-24T15:38:02.293905",
+    "priority": 31
   }
 ]
