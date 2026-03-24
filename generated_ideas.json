@@ -23750,5 +23750,13 @@
     "category": "finance",
     "generated_at": "2026-03-24T09:45:01.149150",
     "priority": 30
+  },
+  {
+    "id": 2970,
+    "name": "Productivity App #2970",
+    "description": "Habit tracker",
+    "category": "productivity",
+    "generated_at": "2026-03-24T10:41:08.020703",
+    "priority": 71
   }
 ]
