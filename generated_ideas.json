@@ -23958,5 +23958,13 @@
     "category": "education",
     "generated_at": "2026-03-25T14:11:56.465181",
     "priority": 60
+  },
+  {
+    "id": 2996,
+    "name": "Sustainability App #2996",
+    "description": "Energy optimizer",
+    "category": "sustainability",
+    "generated_at": "2026-03-25T15:41:14.454868",
+    "priority": 67
   }
 ]
