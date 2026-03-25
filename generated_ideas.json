@@ -23982,5 +23982,13 @@
     "category": "finance",
     "generated_at": "2026-03-25T17:49:59.091322",
     "priority": 13
+  },
+  {
+    "id": 2999,
+    "name": "Sustainability App #2999",
+    "description": "Carbon footprint tracker",
+    "category": "sustainability",
+    "generated_at": "2026-03-25T18:42:46.848128",
+    "priority": 100
   }
 ]
