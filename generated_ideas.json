@@ -24014,5 +24014,13 @@
     "category": "sustainability",
     "generated_at": "2026-03-25T21:01:50.262706",
     "priority": 81
+  },
+  {
+    "id": 3003,
+    "name": "Education App #3003",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-03-25T21:58:21.166834",
+    "priority": 15
   }
 ]
