@@ -25886,5 +25886,13 @@
     "category": "finance",
     "generated_at": "2026-04-04T14:57:05.355769",
     "priority": 20
+  },
+  {
+    "id": 3237,
+    "name": "Sustainability App #3237",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-04-04T15:26:57.134525",
+    "priority": 4
   }
 ]
