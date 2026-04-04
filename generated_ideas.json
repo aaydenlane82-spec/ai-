@@ -25974,5 +25974,13 @@
     "category": "ai",
     "generated_at": "2026-04-04T21:22:11.170059",
     "priority": 14
+  },
+  {
+    "id": 3248,
+    "name": "Education App #3248",
+    "description": "Adaptive learning app",
+    "category": "education",
+    "generated_at": "2026-04-04T21:52:10.801215",
+    "priority": 44
   }
 ]
