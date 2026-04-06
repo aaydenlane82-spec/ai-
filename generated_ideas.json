@@ -26366,5 +26366,13 @@
     "category": "health",
     "generated_at": "2026-04-06T20:28:48.751555",
     "priority": 62
+  },
+  {
+    "id": 3297,
+    "name": "Productivity App #3297",
+    "description": "Smart task manager",
+    "category": "productivity",
+    "generated_at": "2026-04-06T21:03:26.226320",
+    "priority": 27
   }
 ]
