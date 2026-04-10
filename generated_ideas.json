@@ -26998,5 +26998,13 @@
     "category": "ai",
     "generated_at": "2026-04-10T23:00:43.697762",
     "priority": 6
+  },
+  {
+    "id": 3376,
+    "name": "Finance App #3376",
+    "description": "Savings goal tracker",
+    "category": "finance",
+    "generated_at": "2026-04-10T23:56:11.611880",
+    "priority": 26
   }
 ]
