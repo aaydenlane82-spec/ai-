@@ -27102,5 +27102,13 @@
     "category": "social",
     "generated_at": "2026-04-11T13:48:08.916538",
     "priority": 29
+  },
+  {
+    "id": 3389,
+    "name": "Ai App #3389",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2026-04-11T14:28:51.928226",
+    "priority": 73
   }
 ]
