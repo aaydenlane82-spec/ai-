@@ -28366,5 +28366,13 @@
     "category": "health",
     "generated_at": "2026-04-19T13:53:28.928811",
     "priority": 28
+  },
+  {
+    "id": 3547,
+    "name": "Ai App #3547",
+    "description": "Document analyzer",
+    "category": "ai",
+    "generated_at": "2026-04-19T14:34:18.660154",
+    "priority": 79
   }
 ]
