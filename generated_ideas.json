@@ -28502,5 +28502,13 @@
     "category": "sustainability",
     "generated_at": "2026-04-20T09:47:52.391613",
     "priority": 60
+  },
+  {
+    "id": 3564,
+    "name": "Education App #3564",
+    "description": "Flashcard maker",
+    "category": "education",
+    "generated_at": "2026-04-20T11:11:46.067061",
+    "priority": 54
   }
 ]
