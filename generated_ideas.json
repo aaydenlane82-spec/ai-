@@ -28822,5 +28822,13 @@
     "category": "social",
     "generated_at": "2026-04-22T18:39:10.465519",
     "priority": 84
+  },
+  {
+    "id": 3604,
+    "name": "Ai App #3604",
+    "description": "Creative writing partner",
+    "category": "ai",
+    "generated_at": "2026-04-22T19:59:38.220207",
+    "priority": 7
   }
 ]
