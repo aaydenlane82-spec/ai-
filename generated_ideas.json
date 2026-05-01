@@ -29894,5 +29894,13 @@
     "category": "ai",
     "generated_at": "2026-05-01T08:01:10.613427",
     "priority": 79
+  },
+  {
+    "id": 3738,
+    "name": "Productivity App #3738",
+    "description": "Meeting scheduler",
+    "category": "productivity",
+    "generated_at": "2026-05-01T10:00:03.120614",
+    "priority": 20
   }
 ]
