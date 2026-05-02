@@ -30094,5 +30094,13 @@
     "category": "finance",
     "generated_at": "2026-05-02T17:11:01.078596",
     "priority": 40
+  },
+  {
+    "id": 3763,
+    "name": "Education App #3763",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-05-02T18:06:12.526635",
+    "priority": 90
   }
 ]
