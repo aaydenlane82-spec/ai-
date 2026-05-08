@@ -30734,5 +30734,13 @@
     "category": "health",
     "generated_at": "2026-05-08T11:49:23.112471",
     "priority": 44
+  },
+  {
+    "id": 3843,
+    "name": "Ai App #3843",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-05-08T13:07:35.079367",
+    "priority": 34
   }
 ]
