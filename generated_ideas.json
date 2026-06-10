@@ -33654,5 +33654,13 @@
     "category": "social",
     "generated_at": "2026-06-10T17:40:01.885468",
     "priority": 22
+  },
+  {
+    "id": 4208,
+    "name": "Finance App #4208",
+    "description": "Bill splitter",
+    "category": "finance",
+    "generated_at": "2026-06-10T20:10:51.195888",
+    "priority": 67
   }
 ]
