@@ -34182,5 +34182,13 @@
     "category": "social",
     "generated_at": "2026-06-18T16:20:21.477476",
     "priority": 86
+  },
+  {
+    "id": 4274,
+    "name": "Finance App #4274",
+    "description": "Savings goal tracker",
+    "category": "finance",
+    "generated_at": "2026-06-18T18:38:25.196354",
+    "priority": 47
   }
 ]
