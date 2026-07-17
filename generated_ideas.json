@@ -36838,5 +36838,13 @@
     "category": "ai",
     "generated_at": "2026-07-17T15:51:55.331098",
     "priority": 78
+  },
+  {
+    "id": 4606,
+    "name": "Sustainability App #4606",
+    "description": "Energy optimizer",
+    "category": "sustainability",
+    "generated_at": "2026-07-17T16:59:04.426707",
+    "priority": 96
   }
 ]
