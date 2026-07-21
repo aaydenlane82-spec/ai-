@@ -37334,5 +37334,13 @@
     "category": "finance",
     "generated_at": "2026-07-21T19:02:28.335836",
     "priority": 31
+  },
+  {
+    "id": 4668,
+    "name": "Education App #4668",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-07-21T20:39:52.901557",
+    "priority": 52
   }
 ]
