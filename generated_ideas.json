@@ -37318,5 +37318,13 @@
     "category": "sustainability",
     "generated_at": "2026-07-21T16:02:10.467857",
     "priority": 47
+  },
+  {
+    "id": 4666,
+    "name": "Finance App #4666",
+    "description": "Savings goal tracker",
+    "category": "finance",
+    "generated_at": "2026-07-21T17:49:13.079853",
+    "priority": 19
   }
 ]
