@@ -38070,5 +38070,13 @@
     "category": "ai",
     "generated_at": "2026-07-28T14:55:39.513833",
     "priority": 90
+  },
+  {
+    "id": 4760,
+    "name": "Productivity App #4760",
+    "description": "Habit tracker",
+    "category": "productivity",
+    "generated_at": "2026-07-28T16:27:52.186262",
+    "priority": 7
   }
 ]
