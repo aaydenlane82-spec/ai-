@@ -38286,5 +38286,13 @@
     "category": "ai",
     "generated_at": "2026-07-30T15:28:29.937580",
     "priority": 95
+  },
+  {
+    "id": 4787,
+    "name": "Finance App #4787",
+    "description": "Investment analyzer",
+    "category": "finance",
+    "generated_at": "2026-07-30T16:59:10.618644",
+    "priority": 64
   }
 ]
