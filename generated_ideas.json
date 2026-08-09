@@ -39654,5 +39654,13 @@
     "category": "ai",
     "generated_at": "2026-08-09T22:55:57.234703",
     "priority": 68
+  },
+  {
+    "id": 4958,
+    "name": "Finance App #4958",
+    "description": "Budget tracker with AI",
+    "category": "finance",
+    "generated_at": "2026-08-09T23:22:23.330260",
+    "priority": 78
   }
 ]
