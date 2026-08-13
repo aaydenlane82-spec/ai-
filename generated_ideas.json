@@ -40190,5 +40190,13 @@
     "category": "finance",
     "generated_at": "2026-08-13T08:10:34.283131",
     "priority": 7
+  },
+  {
+    "id": 5025,
+    "name": "Health App #5025",
+    "description": "Medication reminder",
+    "category": "health",
+    "generated_at": "2026-08-13T09:37:06.515027",
+    "priority": 4
   }
 ]
