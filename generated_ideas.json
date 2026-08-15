@@ -40574,5 +40574,13 @@
     "category": "education",
     "generated_at": "2026-08-15T08:14:52.647652",
     "priority": 12
+  },
+  {
+    "id": 5073,
+    "name": "Health App #5073",
+    "description": "Mental wellness companion",
+    "category": "health",
+    "generated_at": "2026-08-15T08:51:22.189714",
+    "priority": 40
   }
 ]
