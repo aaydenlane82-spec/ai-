@@ -40710,5 +40710,13 @@
     "category": "social",
     "generated_at": "2026-08-15T17:11:20.380231",
     "priority": 1
+  },
+  {
+    "id": 5090,
+    "name": "Education App #5090",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-08-15T17:41:56.306896",
+    "priority": 95
   }
 ]
