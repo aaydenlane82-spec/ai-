@@ -41854,5 +41854,13 @@
     "category": "health",
     "generated_at": "2026-08-19T10:51:38.067154",
     "priority": 65
+  },
+  {
+    "id": 5233,
+    "name": "Social App #5233",
+    "description": "Innovative app",
+    "category": "social",
+    "generated_at": "2026-08-19T11:15:17.723470",
+    "priority": 21
   }
 ]
