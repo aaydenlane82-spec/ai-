@@ -42766,5 +42766,13 @@
     "category": "health",
     "generated_at": "2026-08-22T13:49:05.886848",
     "priority": 88
+  },
+  {
+    "id": 5347,
+    "name": "Sustainability App #5347",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-08-22T14:11:07.992206",
+    "priority": 12
   }
 ]
