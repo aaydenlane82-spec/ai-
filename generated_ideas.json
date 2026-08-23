@@ -42998,5 +42998,13 @@
     "category": "health",
     "generated_at": "2026-08-23T07:08:20.878200",
     "priority": 27
+  },
+  {
+    "id": 5376,
+    "name": "Education App #5376",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-08-23T07:53:37.958494",
+    "priority": 95
   }
 ]
