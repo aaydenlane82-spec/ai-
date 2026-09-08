@@ -44550,5 +44550,13 @@
     "category": "ai",
     "generated_at": "2026-09-08T17:46:00.762099",
     "priority": 83
+  },
+  {
+    "id": 5570,
+    "name": "Finance App #5570",
+    "description": "Budget tracker with AI",
+    "category": "finance",
+    "generated_at": "2026-09-08T20:27:59.243820",
+    "priority": 85
   }
 ]
