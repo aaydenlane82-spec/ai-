@@ -44926,5 +44926,13 @@
     "category": "sustainability",
     "generated_at": "2026-09-15T15:54:52.101050",
     "priority": 26
+  },
+  {
+    "id": 5617,
+    "name": "Education App #5617",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-09-15T19:21:26.533953",
+    "priority": 71
   }
 ]
