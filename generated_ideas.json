@@ -45518,5 +45518,13 @@
     "category": "education",
     "generated_at": "2026-09-27T07:19:20.187785",
     "priority": 25
+  },
+  {
+    "id": 5691,
+    "name": "Sustainability App #5691",
+    "description": "Sustainable product scanner",
+    "category": "sustainability",
+    "generated_at": "2026-09-27T13:09:32.847072",
+    "priority": 88
   }
 ]
