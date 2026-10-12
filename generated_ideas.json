@@ -46070,5 +46070,13 @@
     "category": "health",
     "generated_at": "2026-10-11T23:47:45.041689",
     "priority": 74
+  },
+  {
+    "id": 5760,
+    "name": "Education App #5760",
+    "description": "Language learning tool",
+    "category": "education",
+    "generated_at": "2026-10-12T03:15:59.187948",
+    "priority": 9
   }
 ]
