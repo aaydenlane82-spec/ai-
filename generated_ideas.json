@@ -46206,5 +46206,13 @@
     "category": "social",
     "generated_at": "2026-10-15T15:57:19.720094",
     "priority": 72
+  },
+  {
+    "id": 5777,
+    "name": "Education App #5777",
+    "description": "Study group coordinator",
+    "category": "education",
+    "generated_at": "2026-10-15T19:39:25.192341",
+    "priority": 27
   }
 ]
