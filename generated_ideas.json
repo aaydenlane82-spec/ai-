@@ -46790,5 +46790,13 @@
     "category": "education",
     "generated_at": "2026-10-27T09:25:51.187101",
     "priority": 85
+  },
+  {
+    "id": 5850,
+    "name": "Ai App #5850",
+    "description": "Code reviewer",
+    "category": "ai",
+    "generated_at": "2026-10-27T15:27:22.715731",
+    "priority": 35
   }
 ]
