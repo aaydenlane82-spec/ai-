@@ -46918,5 +46918,13 @@
     "category": "finance",
     "generated_at": "2026-10-30T21:14:00.380731",
     "priority": 99
+  },
+  {
+    "id": 5866,
+    "name": "Ai App #5866",
+    "description": "Personal AI assistant",
+    "category": "ai",
+    "generated_at": "2026-10-31T00:54:11.145814",
+    "priority": 50
   }
 ]
